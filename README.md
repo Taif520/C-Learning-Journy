@@ -1,2 +1,2 @@
-# C--Learning-Journal
-My daily C# practices
+# C# Learning-journey
+I share my daily practices in learning the C# programming language.
