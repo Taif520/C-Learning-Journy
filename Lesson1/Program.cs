@@ -11,8 +11,7 @@ namespace Lesson1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello to C# world");
-            /*when I want to ask the user to type something*/
-            Console.ReadLine("Enter your name: ");
+            Console.ReadLine();
 
             Console.WriteLine("data types");
             /*Integir*/
@@ -21,8 +20,9 @@ namespace Lesson1
             double b = 23.5;
             Console.WriteLine(b);
             /*We use F to show that is float number otherwise the compiler will think that is double number*/
-            float c = 23.5F;
-            Console.WriteLine(b);
+            float c =45.5F;
+            Console.WriteLine(c);
+            
 
         }
     }
