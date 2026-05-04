@@ -14,6 +14,8 @@ namespace Lesson1
             Console.ReadLine();
 
             Console.WriteLine("data types");
+            string name = "Taif";
+            Console.WriteLine(name);
             /*Integir*/
             int a = 35;
             Console.WriteLine(a);
